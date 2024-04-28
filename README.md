@@ -4,7 +4,7 @@ here are all the informations to the Game and how to start the Game.
 # How to install and start the Game?
 You need to click the green **<>code** button and then **Download ZIP** and after the download open it. 
 after the open the ZIP is there a **soccer-game-folder-main** open it to and there is the **ingame folder ZIP**.
-bring the **ingame folder ZIP** to your desktop and do a right click and **extract all** and now you can open the **soccer** game.
+bring the **ingame folder ZIP** to your desktop and do a right click and **extract all** and now you can open the folder.
 
 # Blue Windows Warning!
 You will get a Blue Windows Warning from Windows Because its not a verifed exe. like in this picture. **do the same thinks like on this picture and you can start now the game.**
