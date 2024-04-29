@@ -8,7 +8,7 @@ after the open the ZIP is there a **soccer-game-folder-main** open it to and the
 
 bring the **ingame folder ZIP** to your desktop and do a right click and **extract all** and now you can open the folder.
 
-In the folder is then the Game **soccer** but you will get a blue windows warning by starting the game if you dont know what you need to do then you can look here and see how you can do it. 
+In the folder is then the Game **soccer** you can start it now.
 
 # Some Pictures from the Game.
 ![soccerrx](https://github.com/Coderproxd193/soccer-game-folder/assets/166309256/71ad2d82-2ce3-4249-a115-00862bf744bd)
