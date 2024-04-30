@@ -6,9 +6,9 @@ You need to click the green **<>code** button and then **Download ZIP** and afte
 
 after the open the ZIP is there a **soccer-game-folder** open it to and there is the **soccer-ingame-folder**.
 
-bring the **soccer-ingame-folder** to your desktop and do a right click and **extract all** and now you can open the folder.
+open the **soccer-ingame-folder** to and there is then the **ingame folder** bring it to your desktop and open it.
 
-In the folder is then the Game **soccer** you can start it now.
+In the folder is then the Game **soccer** and now you can start it.
 
 # Some Pictures from the Game.
 ![soccerrx](https://github.com/Coderproxd193/soccer-game-folder/assets/166309256/71ad2d82-2ce3-4249-a115-00862bf744bd)
